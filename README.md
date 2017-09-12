@@ -1,116 +1,36 @@
-# User Experience Design
-
-Este repositorio es el lugar donde vamos a ir continuamente _diseñando_ nuestro
-programa de formación en **User Experience Design**.
-
-En este repo se irán _ordenando_, _desarrollando_, _discutiendo_ y
-_proponiendo_ todo lo que tenga que ver con el diseño de la _malla curricular_
-y _cursos_.
-
-## Mapa de conceptos, tecnologías y herramientas
-
-Como guía en el proceso de diseño de la malla estamos usando un "mapa" de
-_conceptos_, _tecnologías_ y _herramientas_ que queremos cubrir en la currícula.
-Este mapa es un mapa vivo, se basa en feedback de empleadores, instructores y
-alumnas. Si tienes alguna sugerencia o comentario no dudes en abrir un issue. 
-
-Los temas incluídos en esta currícula tienen las siguientes referencias:
-
-* [Jared Spool on UX design](https://blog.intercom.com/jared-spool-on-ux-design/)
-* [Let’s stop talking about THE design process](https://medium.com/stanford-d-school/lets-stop-talking-about-the-design-process-7446e52c13e8)
-* [InVision’s Aarron Walter on design culture](https://blog.intercom.com/invisions-aarron-walter-on-design-culture/)
-
-## Los _cursos_
-
-Cada curso debe tener un _dueño_ o _autor_, quien es responsable del curso
-como unidad atómica. Estos _autores_ podrán ser personal de Laboratoria así
-como profesionales y expertos de la industria.
-
-Cada curso tendrá una duración de aprox. 4 semanas. Los _cursos_ diseñados para
-el **bootcamp** tendrán en cuenta que las alumnas estudian a medio tiempo
-(dedican tiempo todos los días) y **no** dominan el idioma inglés. Por otro
-lado, los _cursos_ de **educación continua** están dirigidos a un público que
-trabaja, y por lo tanto tiene mucho menos disponibilidad de tiempo (aprox. 4h
-por semana).
-
-Los _cursos_ se dividen en 2 _fases_:
-
-* [**Bootcamp**](#bootcamp): cursos blended part-time, 6 meses
-* [**Educación continua**](#educación-continua): cursos blended 4 horas por
-  semana, 18 meses
+# 01. Intro a User Experience Design 1
 
 
-***
-
-### Bootcamp
-
-El **Bootcamp** tiene una duración de 6 meses, a tiempo parcial. Las chicas
-postularán cuando hayan completado el curso de
-[Introducción a la programación](../curricula-js/01-intro). Una vez dentro, llevarán durante 9
-semanas una serie de temas a la que denominamos **Common Core**, a partir de ahí
-podrán especializarse en 3 perfiles (`tracks`): `Front-End Developer`,
-`Maquetadora Web` y `UX Designer`.
-
-#### Common Core
-
-En este espacio, las estudiantes experimentarán un poco de los diversos tracks
-con la intención de descubrir su afinidad, no se verán todos los temas en
-profundidad, pero sí lo necesario para poder entender en qué track
-especializarse.
-
-##### [04: Intro a User Experience Design](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design)
-
-Autor: _Lalo Gonzalez_
-
-En este primer curso se construirá un sitio dinámico desde cero pasando por las
-diversas fases del desarrollo de un producto web. A lo largo de este curso, se
-verán temas de maquetación (`HTML` y `CSS`), lógica (`JS`), herramientas de
-flujo de trabajo (`git`), además de interacción con el `DOM` para agregar
-dinamismo a través de eventos.
-
-* **Sketch Data Dashboard**: El entregable final del curso será un sketch del data dashboard que se desarrollará al final el common core. En este producto se evaluarán las habilidades para crear un sketch de un producto real que incluya las heurísticas de usabilidad y los elementos de navegación aprendidos.
+En este curso empezarás a formar el mindset que todo UX Designer debe tener: pensar en el usuario, pensar en el negocio y entender cómo los prototipos se vuelven una parte fundamental en un proceso de diseño. A lo largo del curso, entenderás las distintas etapas de un proceso de diseño y las podrás poner en práctica trabajando en un producto.
 
 
-Main tags: `ux design`, `navegacion`, `sketching`
+## Público objetivo
 
-Secondary tags: `ui`
+Egresadas del bootcamp de Laboratoria que no hayan llevado la especialización de User Experience Design.
 
-Tiempo estimado: _1 semana_.
+## Requerimientos previos
 
+Ningún conocimiento previo diseño o de programación es necesario para completar este curso. Está diseñado para principiantes.
 
-
-
-#### User Experience Design
-
-En este track se encontrarán las estudiantes que sientan una mayor afinidad con
-el diseño de experiencia de usuario, de tal manera que puedan especializarse en
-`UX Design`.
-
-### Bootcamp
+## Aprenderás
 
 
-##### [06: User Experience Design 01](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/01-User-Experience-Design-1)
+* Qué es **User Experience Design** y por qué es importante en la creación de productos digitales
+* La diferencia y similitud entre distintos frameworks como **Design Thinking**, **Lean Startup**, **Lean UX** y **Design Sprint** 
+* Las 5 fases del proceso de User Experience Design
+* A entender la importancia del **User Research** en un proceso de diseño
+* Qué son los **User Personas** y cómo su uso impacta en el proceso de diseño
+* La importancia de usar preguntas como **HMW** y **What if** para la generación de ideas
 
-##### [07: User Experience Design 02](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-User-Experience-Design-2)
+## Detalles logísticos
 
-##### [08: User Experience Design 03](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-User-Experience-Design-3)
+* Self-paced: 4 hrs
+* Presencial: 16 hrs
+* Total horas: 18
 
-##### [09: User Experience Design 04](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/02-User-Experience-Design-4)
+## Producto
 
-
-
-***
-
-### Educación continua 
-
-#### [01: Intro a UX Design 1](/02-educacion-continua/01-intro-uxd-1/)
-
-
-Autor: _Lalo Gonzalez_
-
-En este curso se aprenderán las bases del UX Design, qué es, por qué lo estudiamos, qué metodologías y frameworks están realacionados. Además entenderemos cómo es el proceso de diseño e iremos en detalle con las etapas de `research` y de `definición`.
-
-Durante el curso las estudiantes podrán elegir un reto para el cuál deberán realizar una investigación y desarrollar un **_producto_** a lo largo del curso. Entre los retos a elegir están los siguientes: 
+Durante el curso las estudiantes podrán elegir un reto para el cuál deberán realizar una investigación y desarrollar un producto a lo largo del curso. Entre los retos a elegir están los siguientes: 
 
 * **Sector financiero:** 
 
@@ -129,105 +49,241 @@ Durante el curso las estudiantes podrán elegir un reto para el cuál deberán r
 	*"¿Cómo podríamos mejorar la experiencia del repago para nuestras egresadas?"*
 
 
-Main tags: `prototipado en papel`, `ux research`, `sintesis`,  `ideacion`, `entrevistas`
 
-Secondary tags: `design thinking`, `Lean UX`, `Lean Startup`, `Design Sprint`, `human centered design`, `usabilidad`, `benchmark`,  `analisis competitivo y compartivo`,  `museo de arte`,  `crazy 8s`,
+## Syllabus
 
-Tiempo estimado: _4 semanas_.
-
-#### [02: Intro a UX Design 2](/02-educacion-continua/02-intro-uxd-2/)
-
-Autor: _Lalo Gonzalez_
-
-En este curso se aprenderán a fondo técnicas de UX Research. Principalmente técnicas cualitativas como `entrevistas` y `tests de usabilidad`. 
-
-* **Producto**: 
-
-Main tags: `visual design`,`arquitectura de la informacion`, `prototipado`, `testing`,  `storytelling`
-
-Secondary tags: `figma`, `marvel`, `lookback`, `user flows`,  `prototipado de alta fidelidad`
-
-Tiempo estimado: _4 semanas_.
-
-#### [03: User Research](/02-educacion-continua/03-ux-research/)
-
-Autor: _Kathryn Uhl_
-
-En este curso se aprenderán a fondo técnicas de UX Research. Principalmente técnicas cualitativas como `entrevistas` y `tests de usabilidad`. 
-
-* **Producto**: las estudiantes podrán utilizar cualquier producto con el que estén trabajando actualmente 
-
-Main tags: `ux research`, `entrevistas`, `tests de usabilidad`
-
-Secondary tags: `empatia`, `arco de la entrevista`,`pregunta de research`
-
-Tiempo estimado: _4 semanas_.
-
-#### [04: Visual Design](/02-educacion-continua/04-visual-design/)
-
-Autor: _Eduardo Alarcón_
-
-En este curso se aprenderán las bases del diseño visual. 
-
-* **Producto 1**: 
-
-Main tags: `ux design`, `ui design`, `visual design`
-
-Secondary tags: `contraste`, `repeticion`,`alineacion`,`proximidad`,`jerarquia visual`, `tipogragría`,`teoría de gestalt`, `teoría del color`
-
-Tiempo estimado: _4 semanas_.
-
-#### [05: Advanced Prototyping with Framer](/02-educacion-continua/05-prototyping-with-framer/)
-
-Autor: _Arturo Goicochea_
-
-En este curso se aprenderán las bases y la importancia de usar [Framerjs](http://www.framer.com) para prototipar interacciones más reales. Utilizaremos la librería de `javascript` de Framer y también usaremos Figma como herramienta para el diseño visual. Durante el curso, se construirán 4 prototipos, uno en cada sesión:
+### Lección 01: [Introducción a UX Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-Introduccion-a-UX-Design.md)
 
 
-* **Producto 1**: 
-* **Producto 2**:
-* **Producto 3**:
-* **Producto 4**: 
+70 min (presencial)
+
+Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos introductorios a UX Design. ¿Por qué es importante aprender UXD? ¿Cómo podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos beneficiará a todos? ¿Qué disciplinas están involucradas en UX Design?
 
 
-Main tags: `ux design`, `prototipado`, `framer`
-
-Secondary tags: `coffee-script`
-
-Tiempo estimado: _4 semanas_.
-
-
-#### [06: Ideation techniques](#)
-#### [07: Service Design](#)
-#### [08: Comunicación para diseñadores](#)
-
-*** 
-
-### Laboratoria for Business
-
-1. [UX Leadership](#)
-2. [Intro a UX Design](#)
-
-### Cursos dictados en el pasado
-
-1. [Tech, UX and UI talks](/01-bootcamp/01-talks/)
-2. [Inmersión UX - 3 semanas](/01-bootcamp/02-user-experience-design-bootcamp/)
-
-*** 
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | Logística de la Clase
+| 02 | Clase | 10 min | [¿Qué es User Experience Design?](#)
+| 03 | discusión | 10 min | [¿Por qué debemos estudiar UX Design?](#)
+| 04 | discusión | 10 min | [¿Qué características tiene un buen UX Designer?](#)
+| 05 | Clase | 5 min | [Disciplinas involucradas en UX Design](#)
+| 06 | Clase | 10 min | [El proceso de UX Design](#)
+| 06 | Lectura | 20 min | [Los 15 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
 
 
-## Contribuciones
+### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
 
-Toda contribución es **gratamente bienvenida**.
+20 min (self-paced)
 
-Pero **POR FAVOR** no olvides leer detalladamente la
-[guía para contribuidores](CONTRIBUTING.md) antes de enviar un PR.
+`human centered design`, `Lean UX`, `Lean Startup` son algunas de las metodologías que escuchamos a diario en el mundo tecnológico y del emprendimiento. En esta clase aprenderás un poco de cada una y sabrás cuáles son sus diferencias y similitudes, y cómo es que estas disciplinas están involucradas con el UX Design. 
 
-## Licencia & Copyright
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | clase | 1 min | [Intro - metodologías involucradas en UX Design](#)
+| 02 | clase | 3 min | [Human Centered Design](#)
+| 03 | clase | 4 min | [Lean Startup](#)
+| 04 | clase | 3 min |[Agile Manifesto](#)
+| 05 | clase | 4 min |[LEAN UX](#)
+| 06 | clase | 5 min |[Sprint](#)
 
-Todos los materiales de este repo son (c) 2017 [Laboratoria](http;//laboratoria.la/).
+### Lección 03: [Rapid Prototyping](//02-educacion-continua/01-intro-uxd-1/Unidad-1/03-Rapid-prototyping.md)
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+60 min (presencial)
 
-Este trabajo está publicado bajo la licencia [Creative commons
-Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+En esta sesión pasarás por todas las etapas del proceso de UX Design en un reto de 60 minutos. Al finalizar este reto habrás creado y testeado un prototipo. 
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Entendiendo el problema en el que trabajaremos](#)
+| 02 | Workshop | 50 min | [Rapid Prototyping](http://toolbox.hyperisland.com/90-minute-prototypes)
+
+
+### Lección 04: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
+
+30 min (self-paced)
+
+La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heruísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | video | 1 min | [¿Qué es usabilidad?](#)
+| 02 | video | 14 min | [10 heuristicas de usabilidad](https://www.nngroup.com/articles/ten-usability-heuristics/)
+| 03 | Workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
+
+
+### Lección 05: [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/05-introduccion-user-reseach.md)
+
+55min (self-paced)
+
+El research es la etapa más importante del proceso de diseño, ya que nos ayuda a identicar y validar el problema que resolveremos a lo largo de nuestro trabajo. 
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | video | 3 min | [Qué es User Research](https://www.youtube.com/watch?v=A_gHQq9iLxg)
+| 02 | video | 5 min | [La importancia del Research en un proceso de diseño](#)
+| 03 | lectura | 40 min | [Understanding the problem](https://drive.google.com/file/d/0B0NdG2VNCDPzWG1yekM3X0RjZjg/view?usp=sharing)
+| 04 | audio | 30 min | [UX Research entrevista a Stephanie Agotborde](#)
+
+
+### Lección 06: [Creación de un Research Plan](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-research-plan.md)
+
+40min (presencial)
+ 
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Componentes de un plan de research](#)
+| 02 | Workshop | 20 min | [Creación de research plan](#)
+| 03 | Workshop | 10 min | [Creación de BS Personas](#)
+| 04 | Workshop | 10 min | [Análisis competitivo y comparativo](#)
+
+
+### Lección 07: [User Research Big Data](/02-educacion-continua/01-intro-uxd-1/Unidad-2/07-research-big-data.md)
+
+50min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [¿Qué es Big Data?](#)
+| 02 | Clase | 20 min | [Herramientas](#)
+
+### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08-research-small-data.md)
+
+85min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Introducción similitudes y diferencias](#)
+| 02 | Clase | 20 min | [Tips para entrevistas con usuarios y tests de usabilidad](#)
+| 03 | Video | 5 min | [Paper prototype testing](https://www.youtube.com/watch?v=9wQkLthhHKA)
+| 04 | Workshop | 20 min | [Planeamiento de entrevistas con usuarios](#)
+| 05 | Workshop | 15 min | [Sesión de entrevistas](#)
+| 06 | Workshop | 15 min | [Sesión de testing con prototipos en papel](#)
+
+
+
+### Lección 09: [Introducción a Síntesis y definición](/02-educacion-continua/01-intro-uxd-1/Unidad-3/09-introduccion-sintesis-y-definicion.md)
+
+30 min (self-paced)
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | lectura | 20 min | [Síntesis o Interpretación](https://drive.google.com/file/d/0B0NdG2VNCDPzLU1CcFJZaU91ajg/view)
+| 02 | video | 2 min | [Affinity Mapping](https://www.youtube.com/watch?v=UynxDyr0lAo)
+| 03 | video | 2 min | [User Personas](https://www.youtube.com/watch?v=khLWLtxmMGM)
+| 04 | video | 4 min | [MVP](https://www.youtube.com/watch?v=1FoCbbbcYT8)
+
+
+
+### Lección 10: [Síntesis](/02-educacion-continua/01-intro-uxd-1/Unidad-3/10-sintesis.md)
+
+70min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Importancia de la síntesis dentro del proceso de UXD](#)
+| 02 | Workshop | 30 min | [Affinity mapping](#)
+| 03 | Workshop | 20 min | [User Personas](#)
+
+
+### Lección 11: [Problem Statements y HMW](/02-educacion-continua/01-intro-uxd-1/Unidad-3/11-problem-statements-y-hmw.md)
+
+65min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [¿Qué son los problem statements?](#)
+| 02 | Workshop | 15 min | [Elaboración de problem statements](#)
+| 03 | Clase | 10 min | [¿Qué son los HMW? - Importancia de las preguntas en un proceso de problem solving](#)
+| 04 | Clase | 10 min | [Tips para crear buenas preguntas de HMW](#)
+| 05 | Workshop | 20 min | [	Elaboración de HMW questions](#)
+
+
+### Lección 12: [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-3/12-priorizacion.md)
+
+30min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Herramientas de priorización](#)
+| 02 | Workshop | 10 min | [Priorización](#)
+| 03 | Workshop | 10 min | [Definición de MVP](#)
+
+
+### Lección 13: [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/13-ideacion-y-decision.md)
+
+30 min (self-paced)
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | video | 3 min | [Sprint](https://www.youtube.com/watch?v=K2vSQPh6MCE )
+| 02 | lectura | 40 min | [Martes y Miércoles Sprint]()
+
+
+
+### Lección 14: [Ideación](/02-educacion-continua/01-intro-uxd-1/Unidad-4/14-ideacion.md)
+
+90min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 10 min | [Intro]()
+| 02 | video | 3 min | [Sprint Tuesday](https://www.youtube.com/watch?v=_ITJ5lAXQhg)
+| 03 | Workshop | 20 min | [Lightning demos](#)
+| 04 | Workshop | 20 min | [Ideas](#)
+| 05 | Workshop | 10 min | [Crazy 8s](#)
+| 06 | Workshop | 30 min | [Solution sketch in 3 parts](#)
+
+### Lección 15: [Decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/15-decision.md)
+
+45min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Clase | 3 min | [Sprint Wednesday](https://www.youtube.com/watch?v=7BKBFOOKbNo)
+| 02 | Workshop | 20 min | [Art museum](#)
+| 03 | Workshop | 10 min | [Critique](#)
+| 04 | Workshop | 5 min | [Survey](#)
+| 05 | Workshop | 5 min | [Supervote](#)
+| 06 | Workshop | 5 min | [Decide](#)
+
+### Lección 16: [Wireframing](/02-educacion-continua/01-intro-uxd-1/Unidad-4/16-wireframing.md)
+
+30min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | Workshop | 30 min | [Wireframing](#)
+
+
+
+## Autor(es) / Colaboradores
+
+* Lalo González
+
+## Libros
+
+* [The Practitioner's Guide to User Experience Design](https://www.amazon.com/Practitioners-Guide-User-Experience-Design/dp/1455548588/ref=sr_1_1?ie=UTF8&qid=1500431556&sr=8-1&keywords=practitioners+guide+to+user+experience),  Luke Miller, 2015 
+* [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/ref=sr_1_1?ie=UTF8&qid=1500431528&sr=8-1&keywords=elements+of+user+experience), Jesse James Garrett, 2011
+* [LEAN UX](https://www.amazon.com/Lean-UX-Designing-Great-Products/dp/1491953608/ref=sr_1_1?ie=UTF8&qid=1500431693&sr=8-1&keywords=lean+ux), Jeff Gothelf & Josh Seiden, 2013
+* [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571/ref=sr_1_2?ie=UTF8&qid=1500431746&sr=8-2&keywords=about+face), Alan Cooper, 2014
+
+## Benchmarks
+
+* [User Experience Design Circuit](https://generalassemb.ly/education/learn-user-experience-design-online), General Assembly
+* [User Experience Design](https://www.cooper.com/training/interaction-design), Cooper
+* [User Experience Lab](https://www.hyperisland.com/programs-and-courses/user-experience-lab), Hyper Island
+* [UX Research and Strategy](http://trydesignlab.com/ux-design-course/), Design Lab
+* [Product Design](https://www.udacity.com/course/product-design--ud509), Udacity
+* [The elements of Web Design](https://www.codeschool.com/courses/the-elements-of-web-design), Codeschool
+
+## Lecturas complementarias
+
+* [The Definition of User Experience (UX)](https://www.nngroup.com/articles/definition-user-experience/), Don Norman 
+* [The trillion dollar UX Problem](https://drive.google.com/viewerng/viewer?url=https://s3.amazonaws.com/coach-courses-us/public/theuxschool/uploads/The_Trillion_Dollar_UX_Problem.pdf), The UX School
+* [The business of User Experience](https://www.invisionapp.com/blog/business-of-user-experience/), Invision
+* [How User Experience is revolutionizing business](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/karenclarkcole/2016/05/31/how-user-experience-is-revolutionizing-business/&refURL=https://intro-ux.laboratoria.la/01-intro-uxd&referrer=https://intro-ux.laboratoria.la/01-intro-uxd#842501f36203), Forbes
+* [How good UX can affect your ROI](https://www.codeschool.com/blog/2016/06/02/how-good-ux-design-can-affect-your-roi/), Codeschool
