@@ -63,12 +63,12 @@ Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos in
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | clase | 10 min | Logística de la Clase
-| 02 | clase | 10 min | [¿Qué es User Experience Design?](#)
-| 03 | discusión | 10 min | [¿Por qué debemos estudiar UX Design?](#)
-| 04 | discusión | 10 min | [¿Qué características tiene un buen UX Designer?](#)
-| 05 | clase | 5 min | [Disciplinas involucradas en UX Design](#)
-| 06 | clase | 10 min | [El proceso de UX Design](#)
-| 06 | lectura | 20 min | [Los 15 principios de LEAN UX](https://drive.google.com/file/d/0B0NdG2VNCDPzNXJaYlpEdTgwLWM/view)
+| 02 | clase | 10 min | ¿Qué es User Experience Design?
+| 03 | discusión | 10 min | ¿Por qué debemos estudiar UX Design?
+| 04 | discusión | 10 min | ¿Qué características tiene un buen UX Designer?
+| 05 | clase | 5 min | Disciplinas involucradas en UX Design
+| 06 | clase | 10 min | El proceso de UX Design
+| 06 | lectura | 20 min | Los 15 principios de LEAN UX
 
 
 ### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
