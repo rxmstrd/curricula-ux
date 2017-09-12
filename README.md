@@ -258,6 +258,17 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 01 | Workshop | 30 min | [Wireframing](#)
 
 
+## Evaluación 
+
+Se utilizarán 3 mecanismos de evaluación:
+
+| # | Tipo | Cantidad | % Peso
+| - | ---- | -------- | ------
+| 01 | Quizzes | 3 | 15%
+| 02 | Ejercicios | 3| 70%
+| 03 | Producto final | 1 | 15%
+
+Además para aprobar el curso, la alumna deberá tener una asistencia superior al 75%.
 
 ## Autor(es) / Colaboradores
 
