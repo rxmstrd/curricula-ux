@@ -6,12 +6,6 @@
 
 ## Usabilidad
 
-
-### No me hagas pensar
-
-Lee [los primeros 4 capítulos](#) del libro *"No me hagas pensar"* de Steve Krug.
-
-
 ### 10 Heurísticas de Usabilidad de Jakob Nielsen
 
 Adicionalmente, para poder crear productos más usables tenemos que tener en cuenta las 10 heurísticas de usabilidad que propuso Jakob Nielsen en 1995. 
@@ -102,10 +96,22 @@ En este ejemplo, GoDaddy nos muestra todas las opciones que tiene disponible par
 
 ![](https://lh4.googleusercontent.com/V70mjXoCv4puywzb21JooEXciDoyenfVRiQbgF7_Gg_ANWDThfHuVoMIzAp1xdEDSgHI7CGd079e5tOABy0e5s-1vturcSFD5rp6SR4L2RpwozCsVklaZC1HhiHsvkyIGfLKbToO5mI)
 
+***Ahora, intenta encontrar nuevos ejemplos para cada uno de los principios de usabilidad propuestos por Nielsen.***
+
+
+
+### No me hagas pensar
+
+Lee [los primeros 4 capítulos](#) del libro *"No me hagas pensar"* de Steve Krug.
+
+
 ***
 
+## Autoevaluación
 
-***Ahora, intenta encontrar nuevos ejemplos para cada uno de los principios de usabilidad propuestos por Nielsen.***
+<div class="iframeWrapper">
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0YgXnSxMCYenq--9QNEVg2qJ14yqIYSgZa2-gh6aOU-1vTw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+</div>
 
 
 ## Referencias
