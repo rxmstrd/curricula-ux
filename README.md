@@ -54,14 +54,10 @@ Durante el curso las estudiantes podrán elegir un reto para el cuál deberán r
 
 ### Lección 01: [Introducción a UX Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-Introduccion-a-UX-Design.md)
 
-<<<<<<< HEAD
 
 70 min (presencial)
 
 Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos introductorios a UX Design. ¿Por qué es importante aprender UXD? ¿Cómo podemos convencer a nuestros equipos/jefes/compañeros de que invertir en UX nos beneficiará a todos? ¿Qué disciplinas están involucradas en UX Design?
-=======
-#### User Experience Design
->>>>>>> 01cf198ed8fc8e845440eecf6a24303d8c9f4c5f
 
 
 | # | Tipo | Duración | Tópico
@@ -100,12 +96,6 @@ En esta sesión pasarás por todas las etapas del proceso de UX Design en un ret
 | - | ---- | -------- | ------
 | 01 | Clase | 10 min | [Entendiendo el problema en el que trabajaremos](#)
 | 02 | Workshop | 50 min | [Rapid Prototyping](http://toolbox.hyperisland.com/90-minute-prototypes)
-
-<<<<<<< HEAD
-=======
-
-#### [01: Intro a UX Design 1](/02-educacion-continua/01-intro-uxd-1/)
->>>>>>> 01cf198ed8fc8e845440eecf6a24303d8c9f4c5f
 
 ### Lección 04: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
 
@@ -291,15 +281,14 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 ## Lecturas complementarias
 
-<<<<<<< HEAD
 * [The Definition of User Experience (UX)](https://www.nngroup.com/articles/definition-user-experience/), Don Norman 
 * [The trillion dollar UX Problem](https://drive.google.com/viewerng/viewer?url=https://s3.amazonaws.com/coach-courses-us/public/theuxschool/uploads/The_Trillion_Dollar_UX_Problem.pdf), The UX School
 * [The business of User Experience](https://www.invisionapp.com/blog/business-of-user-experience/), Invision
 * [How User Experience is revolutionizing business](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/karenclarkcole/2016/05/31/how-user-experience-is-revolutionizing-business/&refURL=https://intro-ux.laboratoria.la/01-intro-uxd&referrer=https://intro-ux.laboratoria.la/01-intro-uxd#842501f36203), Forbes
 * [How good UX can affect your ROI](https://www.codeschool.com/blog/2016/06/02/how-good-ux-design-can-affect-your-roi/), Codeschool
-=======
+
 
 Este trabajo está publicado bajo la licencia [Creative commons
 Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
->>>>>>> 01cf198ed8fc8e845440eecf6a24303d8c9f4c5f
+
