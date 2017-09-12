@@ -17,7 +17,11 @@
 
 #### Video tests de usabilidad
 
-[Paper prototype testing](https://www.youtube.com/watch?v=9wQkLthhHKA)
+**Testing con prototipo de papel**
+<div class="iframeWrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/9wQkLthhHKA?cc_load_policy=1&cc_lang_pref=es" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 #### Planeamiento
 
