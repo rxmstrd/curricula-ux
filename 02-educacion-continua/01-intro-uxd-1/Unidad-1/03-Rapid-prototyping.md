@@ -14,7 +14,6 @@ Para ello:
 2. Decidan quién será "Partner A"  y quién "Partner B".
 
 
-
 ### 02: Identificar una necesidad - empatizar
 
 La parte más importante cuando diseñas un producto para alguien es poder entender y empatizar con esa persona. Una forma de poder entender a nuestros usuarios es teniendo una buena conversación con ellos. Para eso usamos entrevistas. 
@@ -38,7 +37,6 @@ Responde estas preguntas.
 
 * **Metas y Deseos:** ¿qué está tratando de lograr tu partner al dar un regalo?
 * **Insights:** nuevos aprendizajes sobre los sentimientos y motivaciones de tu compañero. ¿Qué ves tú en la experiencia de tu compañero que él/ella no ha visto?
-
 
 
 #### Define los problem statements

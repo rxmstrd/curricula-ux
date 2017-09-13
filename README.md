@@ -108,7 +108,7 @@ La usabilidad es una característica muy valiosa en nuestros productos digitales
 | - | ---- | -------- | ------
 | 01 | lectura | 15 min | 10 heurísticas de usabilidad
 | 02 | workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
-| 03 | self-paced | 20 min | Lee los primeros capítulos del 
+| 03 | self-paced | 20 min | Lee los primeros 4 capítulos del libro "No me hagas pensar"
 
 
 ### Lección 05: [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/05-introduccion-user-reseach.md)
@@ -121,7 +121,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | video | 3 min | ¿Qué es User Research?
-| 02 | lectura | 5 min | La importancia del Research en un proceso de diseño
+| 02 | lectura | 2 min | La importancia del Research en un proceso de diseño
 | 03 | audio | 30 min | UX Research entrevista a Stephanie Agotborde de MercadoLibre
 
 
