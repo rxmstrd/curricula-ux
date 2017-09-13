@@ -20,7 +20,7 @@ La parte más importante cuando diseñas un producto para alguien es poder enten
 
 Para ello "partner A" tendrá 4 minutos para entrevistar a "partner B" y luego cambiarán de roles. 
 
-Para empezar pregúntale a tu entrevistada _¿cuándo fue la última vez qué diste un regalo y cómo te sentiste?. Indaga un poco más sobre la experiencia, ¿para quién fue el regalo? ¿fue algo significativo? ¿Cómo se te ocurrió qué regalo comprar?
+Para empezar pregúntale a tu entrevistada _¿cuándo fue la última vez que diste un regalo y cómo te sentiste?_. Indaga un poco más sobre la experiencia, _¿para quién fue el regalo? ¿fue algo significativo? ¿Cómo se te ocurrió qué regalo comprar?_
 
 #### Profundiza
 
@@ -31,7 +31,7 @@ Tienen 45 segundos para planear y 3 minutos c/u para una nueva ronda de entrevis
 
 #### Captura lo descubierto
 
-Tomate 2 minutos para intentar capturar lo que aprendiste de la entrevista. Intenta sintetizar lo que aprendiste en unas cuantas 'necesidades' que puedes haber descubierto y algunos 'insights' que te podrían interesar.
+Tómate 4 minutos para intentar capturar lo que aprendiste de la entrevista. Intenta sintetizar lo que aprendiste en unas cuantas 'necesidades' que puedes haber descubierto y algunos 'insights' que te podrían interesar.
 
 Responde estas preguntas.
 
@@ -41,7 +41,7 @@ Responde estas preguntas.
 
 #### Define los problem statements
 
-Ahora elige uno de los problemas de tu partner y escríbelo en el formato de la hoja.
+Ahora elige uno de los problemas de tu partner que crees que vale la pena resolver y escríbelo en el formato de la hoja.
 
 _Nombre o descripción_ ____________________ **necesita** ___________________ **porque** ______________. 
 
@@ -57,7 +57,7 @@ Ahora, tú ayudas a tu nuevo partner a hacer brainstorming sobre cómo soluciona
 
 #### Sketchear 
 
-Elige la mejor idea. Y en 3 minutos haz una historia con esa idea. 
+Elige la mejor idea. Y en 3 minutos dibuja una historia con esa idea. 
 
 ### 04: Producir
 
@@ -76,11 +76,11 @@ Con todo el salón reflexionaremos sobre lo que aprendimos creando este prototip
 Preguntas sobre el prototipo: 
 
 * ¿Quién tuvo un partner que creó un producto que les gustó mucho?
-* ¿Quién se siente curioso de explorar un poco más el prototipo que creo su partner?
+* ¿Quién se siente curioso de explorar un poco más el prototipo que creó su partner?
 
 Preguntas sobre la metodología:
 
 
-* Cómo te ayudó el poder haber conversado / entrevistado a tu partner antes de empezar a diseñar?
+* ¿Cómo te ayudó el poder haber conversado / entrevistado a tu partner antes de empezar a diseñar?
 * ¿Cómo testear y obtener feedback te ayudaron en tu diseño?
 * ¿Cuál fue la parte más difícil de este proceso? 
