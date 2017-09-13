@@ -49,20 +49,27 @@ _Nombre o descripción_ ____________________ **necesita** ___________________ **
 
 ### 03: Idear y sketchear
 
-En 4 minutos esboza la mayor cantidad de ideas que puedas generar para resolver la necesidad de tu partner. 
+#### Idear 
+
+Consigue otro partner, solo para esta parte. 
+
+En 1 minuto, cuéntale cual es el problema de tu otro partner. Y durante los siguientes 4 minutos hagan juntos un brainstorming de soluciones para el problema de tu primer partner. 
+
+Ahora, tú ayudas a tu nuevo partner a hacer brainstorming sobre cómo solucionar el problema con el que está trabajando. 
+
+#### Sketchear 
 
 Elige la mejor idea. Y en 3 minutos haz una historia con esa idea. 
 
 ### 04: Producir
 
-Tienes 10 minutos para crear un prototipo de la solución que escogiste.
+Tienes 7 minutos para crear un prototipo de la solución que escogiste.
 
 Puedes prototipar un app o un servicio. Intenta usar todos los recursos que tendremos en el salón.
 
-
 ### 05: Presentar
 
-Preséntale el prototipo a tu partner y recibe su feedback. 
+En 4 minutos, preséntale el prototipo a tu partner y recibe su feedback. 
 
 ### 06: Reflexión
 

@@ -73,7 +73,7 @@ Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos in
 
 ### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
 
-20 min (self-paced)
+20 min (presencial)
 
 `human centered design`, `Lean UX`, `Lean Startup` son algunas de las metodologías que escuchamos a diario en el mundo tecnológico y del emprendimiento. En esta clase aprenderás un poco de cada una y sabrás cuáles son sus diferencias y similitudes, y cómo es que estas disciplinas están involucradas con el UX Design. 
 
