@@ -1,4 +1,4 @@
-# Lección 07: Research Cuantitativo
+# Lección 07: Research cuantitativo
 
 <!-- - Tipo: `clase`
 - Formato: `presencial`
@@ -9,7 +9,7 @@
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQVFicKk5xPtLyulxXhEjE49nmFwIrBhlBqxT2pjA8ON-58Cc5gv3NYw-trXRI0KvaKPSOh0KBk3Vj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
- 
+
 
 ## ¿Qué es Research Cuantitativo?
 

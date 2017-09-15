@@ -1,4 +1,4 @@
-# Lección 08: Research Cualitativo
+# Lección 08: Research cualitativo
 
 <!-- - Tipo: `clase`
 - Formato: `presencial`
