@@ -52,7 +52,7 @@ Durante el curso las estudiantes podrán elegir un reto para el cuál deberán r
 
 ## Syllabus
 
-### Lección 01: [Introducción a UX Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-Introduccion-a-UX-Design.md)
+### Lección 01: [Introducción a UX Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-introduccion-a-UX-Design.md)
 
 
 70 min (presencial)
@@ -71,9 +71,9 @@ Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos in
 | 06 | lectura | 20 min | Los 15 principios de LEAN UX
 
 
-### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
+### Lección 02: [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-metodologias-relacionas-con-UXD.md)
 
-20 min (presencial)
+20 min (self-paced)
 
 `human centered design`, `Lean UX`, `Lean Startup` son algunas de las metodologías que escuchamos a diario en el mundo tecnológico y del emprendimiento. En esta clase aprenderás un poco de cada una y sabrás cuáles son sus diferencias y similitudes, y cómo es que estas disciplinas están involucradas con el UX Design. 
 
@@ -86,7 +86,7 @@ Bienvenida al curso, detalles del formato y logística de la Clase. Conceptos in
 | 05 | clase | 5 min | Design Sprints
 | 06 | clase | 3 min | Agile Manifesto
 
-### Lección 03: [Rapid Prototyping](/02-educacion-continua/01-intro-uxd-1/Unidad-1/03-Rapid-prototyping.md)
+### Lección 03: [Rapid Prototyping](/02-educacion-continua/01-intro-uxd-1/Unidad-1/03-rapid-prototyping.md)
 
 60 min (presencial)
 
@@ -98,17 +98,9 @@ En esta sesión pasarás por todas las etapas del proceso de UX Design en un ret
 | 02 | workshop | 50 min | Rapid Prototyping
 
 
-### Lección 04: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
+### Lección 04: [Autoevaluación](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-auto-evaluacion.md)
 
-50 min (self-paced)
-
-La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heurísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | lectura | 15 min | 10 heurísticas de usabilidad
-| 02 | workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
-| 03 | self-paced | 20 min | Lee los primeros 4 capítulos del libro "No me hagas pensar"
+Completa la autoevaluación de la clase.  
 
 
 ### Lección 05: [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/05-introduccion-user-reseach.md)
@@ -121,44 +113,49 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | video | 3 min | ¿Qué es User Research?
-| 02 | lectura | 2 min | La importancia del Research en un proceso de diseño
+| 02 | lectura | 5 min | La importancia del Research en un proceso de diseño
 | 03 | audio | 30 min | UX Research entrevista a Stephanie Agotborde de MercadoLibre
 
 
-### Lección 06: [Creación de un Research Plan](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-research-plan.md)
+### Lección 06: [User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-user-research.md)
 
-40min (presencial)
- 
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 10 min | Componentes de un plan de research
-| 02 | workshop | 20 min | Creación de research plan
-| 03 | workshop | 10 min | Creación de BS Personas
-| 04 | workshop | 10 min | Análisis competitivo y comparativo
-
-
-### Lección 07: [User Research Big Data](/02-educacion-continua/01-intro-uxd-1/Unidad-2/07-research-big-data.md)
-
-50min (presencial)
+40min (presencial) 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | clase | 10 min | ¿Qué es Big Data?
-| 02 | clase | 20 min | Herramientas
+| 01 | clase | 20 min | ¿Qué es User Resarch? - discusión
+| 02 | clase | 10 min | Importancia del User Research
+| 03 | clase | 10 min | Tipos de research
 
-### Lección 08: [User Research Small Data - Entrevistas y tests de usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08-research-small-data.md)
+### Lección 07: [Research - Cuantitativo](/02-educacion-continua/01-intro-uxd-1/Unidad-2/07-research-cuantitativo.md)
 
-85min (presencial)
+25 min (presencial)
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | clase | 10 min | Introducción similitudes y diferencias
-| 02 | clase | 20 min | Tips para entrevistas con usuarios y tests de usabilidad
-| 03 | video | 5 min | Paper prototype testing
-| 04 | workshop | 20 min | Planeamiento de entrevistas con usuarios
-| 05 | workshop | 15 min | Sesión de entrevistas
-| 06 | workshop | 15 min | Sesión de testing con prototipos en papel
+| 01 | clase | 5 min | ¿Qué es research cuantitativo?
+| 02 | clase | 3 min | Analítica
+| 03 | clase | 3 min | Estadísticas de Uso
+| 04 | clase | 3 min | Estudios de Mercado
+| 05 | clase | 3 min | Documentos internos
+| 06 | clase | 3 min | Búsquedas en la web
+| 07 | clase | 3 min | Encuestas y cuestionarios
+
+
+### Lección 08: [Research - Cualitativo](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08-research-cualitativo.md)
+
+45 min (presencial)
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | clase | 4 min | Importancia del Research Cualitativo
+| 02 | clase | 4 min | Análisis competitivo y comparativo
+| 03 | clase | 4 min | Entrevistas
+| 04 | clase | 4 min | Investigación Contextual (Observación)
+| 05 | clase | 4 min | Tests de Usabilidad 
+| 06 | clase | 10 min | Tips para entrevistas con usuarios
+| 07 | workshop | 15 min | Sesión de entrevistas
+
 
 
 
@@ -256,6 +253,17 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | - | ---- | -------- | ------
 | 01 | Workshop | 30 min | Wireframing
 
+### Lección 17: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-4/17-usabilidad.md)
+
+50 min (self-paced)
+
+La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heurísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | lectura | 15 min | 10 heurísticas de usabilidad
+| 02 | workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
+| 03 | self-paced | 20 min | Lee los primeros capítulos del libro "No me hagas pensar"
 
 ## Evaluación 
 

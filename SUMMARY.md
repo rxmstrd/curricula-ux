@@ -5,7 +5,7 @@
    * [Introducción a UX Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/01-Introduccion-a-UX-Design.md)
    * [Metodologías / ideologías relacionadas con User Experience Design](/02-educacion-continua/01-intro-uxd-1/Unidad-1/02-Metodologias-relacionas-con-UXD.md)
    * [Rapid Prototyping](//02-educacion-continua/01-intro-uxd-1/Unidad-1/03-Rapid-prototyping.md)
-   * [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-Usabilidad.md)
+   * [Autoevaluación](/02-educacion-continua/01-intro-uxd-1/Unidad-1/04-auto-evaluacion.md)
 * [UNIDAD 2]() 
    * [Introducción a User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/05-introduccion-user-reseach.md)
    * [Creación de un Research Plan](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-research-plan.md)
@@ -21,4 +21,7 @@
    * [Ideación](/02-educacion-continua/01-intro-uxd-1/Unidad-4/14-ideacion.md)
    * [Decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/15-decision.md)
    * [Wireframing](/02-educacion-continua/01-intro-uxd-1/Unidad-4/16-wireframing.md)  
+
+* [BONUS]()
+   * [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/17-usabilidad.md)   
 

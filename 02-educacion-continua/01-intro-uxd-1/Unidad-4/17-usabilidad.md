@@ -107,12 +107,6 @@ Lee [los primeros 4 capítulos](#) del libro *"No me hagas pensar"* de Steve Kru
 
 ***
 
-## Autoevaluación
-
-<div class="iframeWrapper">
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0YgXnSxMCYenq--9QNEVg2qJ14yqIYSgZa2-gh6aOU-1vTw/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
-</div>
-
 
 ## Referencias
 
@@ -121,7 +115,3 @@ Lee [los primeros 4 capítulos](#) del libro *"No me hagas pensar"* de Steve Kru
 * [10 Usability Heuristics with examples](https://blog.prototypr.io/10-usability-heuristics-with-examples-4a81ada920c)
 * [No me hagas pensar](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515), Steve Krug, 2011.
 	
-
-***
-
-[Continuar](#)
