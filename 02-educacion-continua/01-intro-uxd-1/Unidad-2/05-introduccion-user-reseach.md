@@ -4,9 +4,9 @@
 
 Para entender un poco qué es UX Research, mira este video. [![What is user research]()](https://www.youtube.com/watch?v=tfOTxMPmZRI)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tfOTxMPmZRI?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
-
+<div class="iframeWrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/tfOTxMPmZRI?cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## ¿Por qué es importante el research en un proceso de diseño?
 
