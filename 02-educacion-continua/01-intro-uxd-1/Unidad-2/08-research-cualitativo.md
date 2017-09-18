@@ -39,6 +39,17 @@ Este análisis nos ayudará a saber cómo estamos en relación a la competencia.
 
 ![análisis competitivo](https://lh6.googleusercontent.com/yrMUrO_YP0cqeqrAyNVZvU3ardIUVf6xgKuVQjLn0khOPTQL36U7RkbXw2MrViYL3YxDvx1uS95Yurbgor2t84ClTct9_LHWuV49K5pUWu48kNQLmyky-2YybJfU3bYzWhVGNIFrsSg)
 
+### Entrevistas con expertos
+
+Dependiendo del producto tendremos distintos expertos que nos brindarán datos sobre el mercado o el producto. Entre ellos encontramos:
+
+* Ejecutivos de ventas
+* Ejecutivos de servicio al cliente
+* Community managers
+* Antiguos developers, diseñadores o product managers
+* Otros expertos de la industria 
+
+
 ### Investigación Contextual
 
 Enfocándonos más en productos digitales es ideal realizar una investigación contextual. En este tipo de investigación observamos a los usuarios utilizar el producto en el ambiente donde normalmente utilizan lo utilizan. (Mac vs PC, Android vs iPhone, casa vs trabajo vs auto, etc.)
@@ -50,10 +61,13 @@ Enfocándonos más en productos digitales es ideal realizar una investigación c
 
 ### Entrevistas
 
-Las entrevistas con usuarios son una herramienta muy importante para poder obtener más datos sobre cómo se sienten o sintieron los usuarios luego de usar un producto. Para realizar una buena entrevista debemos hacer un buen planeamiento y  seguir algunos tips.
+Las entrevistas con usuarios son una herramienta muy importante para poder obtener más datos sobre cómo se sienten los usuarios con un producto o servicio. Para realizar una buena entrevista debemos hacer un buen planeamiento y seguir algunos tips.
 
 
 ### Tests de usabilidad / tests con usuarios
+
+En los tests de usabilidad probamos nuestros productos en cualquier versión (muchas veces prototipos) para ver hasta qué nivel los usuarios pueden completar tareas en ellos. Durante esta etapa vemos cómo los usuarios interactuan con los productos y qué problemas pueden tener para completar las tareas.
+
 
 ## Entrevistas
 

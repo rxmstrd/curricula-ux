@@ -11,6 +11,7 @@
    * [User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-user-research.md)
    * [Research cuantitativo](/02-educacion-continua/01-intro-uxd-1/Unidad-2/07-research-cuantitativo.md)
    * [Research cualitativo](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08-research-cualitativo.md)
+   * [Autoevaluación](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08.1-auto-evaluacion.md)
 * [UNIDAD 3]() 
    * [Introducción a Síntesis y definición](/02-educacion-continua/01-intro-uxd-1/Unidad-3/09-introduccion-sintesis-y-definicion.md)
    * [Síntesis](/02-educacion-continua/01-intro-uxd-1/Unidad-3/10-sintesis.md)
