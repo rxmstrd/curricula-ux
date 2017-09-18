@@ -4,12 +4,22 @@
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQVFicKk5xPtLyulxXhEjE49nmFwIrBhlBqxT2pjA8ON-58Cc5gv3NYw-trXRI0KvaKPSOh0KBk3Vj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+## ¿Qué es Research cuantitativo?
 
+El research y la data cuantitativa nos ayudan a entender la situación actual del problema que queremos resolver. Por ejemplo:
 
-## ¿Qué es Research Cuantitativo?
+* Cuántos visitantes tenemos en nuestro site
+* Cuántos compran X o Y producto
+* Dónde tenemos el mayor ratio de abandono dentro del proceso de compra
+
+En este [artículo](https://www.uxmatters.com/mt/archives/2012/09/strengths-and-weaknesses-of-quantitative-and-qualitative-research.php) de UX Matters nos dicen lo siguiente: 
+
+> Los estudios cuantitativos proporcionan datos que pueden ser expresados en números, de ahí, su nombre. Debido a que los datos están en una forma numérica, podemos aplicar pruebas estadísticas al hacer declaraciones sobre los datos.
 
 
 ### Herramientas
+
+Las principales herramientas que usamos dentro del research cuantitativo son las siguientes:
 
 #### Analítica
 
@@ -102,6 +112,8 @@ Buscar en la web sobre temas relevantes al problema que estamos enfrentando.
 ![Queja banco peruano](https://lh6.googleusercontent.com/D9TJpHB4tRuiHlRUY59wt_kaIUZie36FKEFEWBEq2J59XUx_fj03XLrnGCnaezlcqsnJ7GpE-rjZfLDQKGWpyI4PGpoenjPL2juf4Pgk22oJKcuh-imKijKkLPHsgdDPE13OywQs3fU)
 
 #### Encuestas y cuestionarios
+
+Las clásicas encuestas que vemos normalmente en línea o dando vueltas por las redes sociales. Sirven para darnos una idea de cuántas personas dicen querer o necesitar algo, o qué tan dispuestos estarían a probar un nuevo producto, o qué tan satisfechos están de usar el producto actual.
 
 ### Actividad
 
