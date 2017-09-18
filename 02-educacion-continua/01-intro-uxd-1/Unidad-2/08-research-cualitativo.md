@@ -1,15 +1,30 @@
 # Lección 08: Research cualitativo
 
-<!-- - Tipo: `clase`
-- Formato: `presencial`
-- Duración: `85 min` -->
 
 <div class="iframeWrapper">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnkYHIs9IXiS0JxwkHu0fJdR_fDcSnWvWRD6_U3nPkfmjExHaC7liq2ZubD8FjHwiANqnNBITg_OSf/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Importancia del Research Cualitativo
+## Importancia del Research cualitativo
 
+Como dijimos, la data cuantitativa nos puede ayudar a entender qué  y cuándo pasan las cosas. Sin embargo, esos datos no responden a la pregunta de por qué y cómo pasan. Para entender eso, necesitamos más contexto. El user research (research cualitativo) nos ayuda a proporcionar ese contexto.
+
+Adicionalmente, el libro de [AboutFace](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571), nos dice lo siguiente:
+
+> La investigación cualitativa nos ayuda a entender el dominio, el contexto y las restricciones de un producto de diferentes maneras, más útiles que la investigación cuantitativa. También nos ayuda a identificar patrones de comportamiento entre los usuarios de un producto y los usuarios potenciales mucho más rápida y fácilmente de lo que sería posible con enfoques cuantitativos.
+
+Adicionalmente nos mencionan que la investigación cualitatita nos permite entender lo siguente:
+
+> * Comportamientos, actitudes y aptitudes de los usuarios de productos potenciales y existentes
+> * Los contextos técnicos, empresariales y ambientales -el dominio- del producto a ser diseñado
+> * Vocabulario y otros aspectos sociales del dominio en cuestión
+> * Cómo se utilizan los productos existentes
+
+Además, la investigación cualitativa también puede ayudar durante el progreso de los proyectos de diseño:
+
+> * Da credibilidad y autoridad al equipo de diseño, porque las decisiones de diseño pueden ser rastreadas hasta los resultados de la investigación.
+> * Le da al equipo una comprensión común de los problemas de los usuarios.
+> * Permite a la gerencia tomar decisiones más informadas sobre el diseño del producto, cuestiones que de otro modo estarían basadas en conjeturas o preferencias personales.
 
 ## Herramientas
 
