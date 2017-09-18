@@ -1,8 +1,9 @@
 # Lección 13: Ideación y decisión
 
-- Tipo: `lectura`
+<!-- - Tipo: `lectura`
 - Formato: `self-learning`
 - Duración: `90 min`
+ -->
 
 ## Ideación y decisión
 
