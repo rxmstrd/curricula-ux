@@ -1,10 +1,5 @@
 # Lección 07: Research cuantitativo
 
-<!-- - Tipo: `clase`
-- Formato: `presencial`
-- Duración: `50 min`
- -->
-
 <div class="iframeWrapper">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQVFicKk5xPtLyulxXhEjE49nmFwIrBhlBqxT2pjA8ON-58Cc5gv3NYw-trXRI0KvaKPSOh0KBk3Vj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
@@ -107,3 +102,7 @@ Buscar en la web sobre temas relevantes al problema que estamos enfrentando.
 ![Queja banco peruano](https://lh6.googleusercontent.com/D9TJpHB4tRuiHlRUY59wt_kaIUZie36FKEFEWBEq2J59XUx_fj03XLrnGCnaezlcqsnJ7GpE-rjZfLDQKGWpyI4PGpoenjPL2juf4Pgk22oJKcuh-imKijKkLPHsgdDPE13OywQs3fU)
 
 #### Encuestas y cuestionarios
+
+### Actividad
+
+Ahora, pensemos en el problema que vamos a resolver. **¿Qué datos cuantitativos nos gustaría revisar?**

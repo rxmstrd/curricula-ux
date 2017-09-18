@@ -308,3 +308,4 @@ Además para aprobar el curso, la alumna deberá tener una asistencia superior a
 * [The business of User Experience](https://www.invisionapp.com/blog/business-of-user-experience/), Invision
 * [How User Experience is revolutionizing business](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/karenclarkcole/2016/05/31/how-user-experience-is-revolutionizing-business/&refURL=https://intro-ux.laboratoria.la/01-intro-uxd&referrer=https://intro-ux.laboratoria.la/01-intro-uxd#842501f36203), Forbes
 * [How good UX can affect your ROI](https://www.codeschool.com/blog/2016/06/02/how-good-ux-design-can-affect-your-roi/), Codeschool
+* [Intro to UX Research, Get out of the building — and into users’ minds](https://onepotprojects.com/intro-to-ux-research-f55cc09a3431), One Pot Projects

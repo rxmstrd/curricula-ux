@@ -10,6 +10,7 @@
 
 ## Importancia del Research Cualitativo
 
+
 ## Herramientas
 
 ### Análisis competitivo y comparativo
