@@ -99,11 +99,3 @@ Ahora, de acuerdo a tu proyecto, tenemos que planear a quiénes vamos a entrevis
 ### Después de clase
 
 Entrevista a por lo menos 2 usuarios.
-
-***
-
-## Autoevaluación
-
-<div class="iframeWrapper">
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0YgXnSxMCYenq--9QNEVg2qJ14yqIYSgZa2-gh6aOU-1vTw/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
-</div>
