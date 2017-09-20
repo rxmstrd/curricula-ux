@@ -196,7 +196,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 02 | Workshop | 15 min | Elaboración de problem statements
 | 03 | Clase | 10 min | ¿Qué son los HMW? - Importancia de las preguntas en un proceso de problem solving
 | 04 | Clase | 10 min | Tips para crear buenas preguntas de HMW
-| 05 | Workshop | 20 min | [	Elaboración de HMW questions
+| 05 | Workshop | 20 min | Elaboración de HMW questions
 
 
 ### Lección 12: [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-3/12-priorizacion.md)
@@ -205,9 +205,9 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 10 min | Herramientas de priorización](#)
-| 02 | Workshop | 10 min | Priorización](#)
-| 03 | Workshop | 10 min | Definición de MVP](#)
+| 01 | Clase | 10 min | Herramientas de priorización
+| 02 | Workshop | 10 min | Priorización
+| 03 | Workshop | 10 min | Definición de MVP
 
 
 ### Lección 13: [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/13-ideacion-y-decision.md)
@@ -217,8 +217,8 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | video | 3 min | Sprint](https://www.youtube.com/watch?v=K2vSQPh6MCE )
-| 02 | lectura | 40 min | Martes y Miércoles Sprint]()
+| 01 | video | 3 min | Sprint
+| 02 | lectura | 40 min | Martes y Miércoles Sprint
 
 
 

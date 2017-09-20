@@ -20,5 +20,5 @@
 ### MVP
 
 <div class="iframeWrapper">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/joNKkWPafZs?cc_load_policy=1&cc_lang_pref=es" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/joNKkWPafZs?cc_load_policy=1&cc_lang_pref=es-ES" frameborder="0" allowfullscreen></iframe>
 </div>

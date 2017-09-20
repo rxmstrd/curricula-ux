@@ -119,13 +119,16 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 ### Lección 06: [User Research](/02-educacion-continua/01-intro-uxd-1/Unidad-2/06-user-research.md)
 
-40min (presencial) 
+50min (presencial) 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | clase | 20 min | ¿Qué es User Resarch? - discusión
 | 02 | clase | 10 min | Importancia del User Research
 | 03 | clase | 10 min | Tipos de research
+| 04 | clase | 10 min | Presentación y elección de casos
+
+
 
 ### Lección 07: [Research - Cuantitativo](/02-educacion-continua/01-intro-uxd-1/Unidad-2/07-research-cuantitativo.md)
 
@@ -193,7 +196,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | 02 | Workshop | 15 min | Elaboración de problem statements
 | 03 | Clase | 10 min | ¿Qué son los HMW? - Importancia de las preguntas en un proceso de problem solving
 | 04 | Clase | 10 min | Tips para crear buenas preguntas de HMW
-| 05 | Workshop | 20 min | [	Elaboración de HMW questions
+| 05 | Workshop | 20 min | Elaboración de HMW questions
 
 
 ### Lección 12: [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-3/12-priorizacion.md)
@@ -202,9 +205,9 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 10 min | Herramientas de priorización](#)
-| 02 | Workshop | 10 min | Priorización](#)
-| 03 | Workshop | 10 min | Definición de MVP](#)
+| 01 | Clase | 10 min | Herramientas de priorización
+| 02 | Workshop | 10 min | Priorización
+| 03 | Workshop | 10 min | Definición de MVP
 
 
 ### Lección 13: [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/13-ideacion-y-decision.md)
@@ -214,8 +217,8 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | video | 3 min | Sprint](https://www.youtube.com/watch?v=K2vSQPh6MCE )
-| 02 | lectura | 40 min | Martes y Miércoles Sprint]()
+| 01 | video | 3 min | Sprint
+| 02 | lectura | 40 min | Martes y Miércoles Sprint
 
 
 
@@ -305,3 +308,4 @@ Además para aprobar el curso, la alumna deberá tener una asistencia superior a
 * [The business of User Experience](https://www.invisionapp.com/blog/business-of-user-experience/), Invision
 * [How User Experience is revolutionizing business](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/karenclarkcole/2016/05/31/how-user-experience-is-revolutionizing-business/&refURL=https://intro-ux.laboratoria.la/01-intro-uxd&referrer=https://intro-ux.laboratoria.la/01-intro-uxd#842501f36203), Forbes
 * [How good UX can affect your ROI](https://www.codeschool.com/blog/2016/06/02/how-good-ux-design-can-affect-your-roi/), Codeschool
+* [Intro to UX Research, Get out of the building — and into users’ minds](https://onepotprojects.com/intro-to-ux-research-f55cc09a3431), One Pot Projects

@@ -59,6 +59,8 @@ Enfocándonos más en productos digitales es ideal realizar una investigación c
 * Nos permite observar sus reacciones y frustraciones naturales 
 * Previenen de tomar supuestos riesgosos, ayudándonos a asegurarnos que estamos solucionando los problemas correctos
 
+**Opcional:** pueden hacer este [ejercicio](https://embedwistia-a.akamaihd.net/deliveries/9ef0b8b6824e19f39ba11497a1101a3b6c193c41/file.mp4).
+
 ### Entrevistas
 
 Las entrevistas con usuarios son una herramienta muy importante para poder obtener más datos sobre cómo se sienten los usuarios con un producto o servicio. Para realizar una buena entrevista debemos hacer un buen planeamiento y seguir algunos tips.
