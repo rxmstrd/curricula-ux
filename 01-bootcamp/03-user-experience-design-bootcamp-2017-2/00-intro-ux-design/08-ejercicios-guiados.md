@@ -19,13 +19,14 @@ Te sugerimos que intentes resolver los ejercicios por tu cuenta (o en equipo)
 estarás familiarizada con los retos. Quizás, puedas tú presentar tu solución
 ante el resto de la clase y así ayduar al resto de tus compañeras :)
 
-## 1. Miremos Airbnb y expliquemos qué partes conforman el UX y que partes el UI
+## 1. Miremos Netflix y expliquemos qué partes conforman el UX y que partes el UI
 
 
 ## 2. Identifiquemos los elementos de navegación en los siguientes sites:
  
  * [Amazon](http://amazon.com/)
- * [Netflix](http://netflix.com)
+ * [Airbnb](http://airbnb.com)
+ * [Pinterest](http://pinterest.com)
 
  
 ## 3. Creemos un sketch para la biblioteca de Laboratoria. 

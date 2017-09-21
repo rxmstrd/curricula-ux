@@ -241,7 +241,7 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | Clase | 3 min | Sprint Wednesday](https://www.youtube.com/watch?v=7BKBFOOKbNo)
+| 01 | Clase | 3 min | Sprint Wednesdays
 | 02 | Workshop | 20 min | Art museum
 | 03 | Workshop | 10 min | Critique
 | 04 | Workshop | 5 min | Survey

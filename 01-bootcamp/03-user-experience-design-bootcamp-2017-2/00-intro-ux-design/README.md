@@ -1,9 +1,3 @@
-### [02: Maquetado web con HTML & CSS](#)
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 08 | self-learning | 30min | [Usabilidad](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-08-usability.md)
-| 09 | self-learning | 30min | [Visual Design](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-09-visual-design.md)
-
 ### [04: Intro a User Experience Design](#)
 
 24hrs
@@ -25,3 +19,7 @@
 | 12 | survey | 10min | [Auto-evaluación](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/12-self-assessment.md)
 | 13 | clases | 30min | [Closing](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/13-closing.md)
 
+### [Red Social](#)
+
+| 08 | self-learning | 30min | [Usabilidad](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-08-usability.md)
+| 09 | self-learning | 30min | [Visual Design](/01-bootcamp/03-user-experience-design-bootcamp-2017-2/00-intro-ux-design/02-09-visual-design.md)
