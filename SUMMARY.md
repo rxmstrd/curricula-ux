@@ -15,8 +15,8 @@
 * [UNIDAD 3]() 
    * [Introducción a Síntesis y definición](/02-educacion-continua/01-intro-uxd-1/Unidad-3/09-introduccion-sintesis-y-definicion.md)
    * [Síntesis](/02-educacion-continua/01-intro-uxd-1/Unidad-3/10-sintesis.md)
-   * [Problem Statements y HMW](/02-educacion-continua/01-intro-uxd-1/Unidad-3/11-problem-statements-y-hmw.md)
-   * [Priorización](/02-educacion-continua/01-intro-uxd-1/Unidad-3/12-priorizacion.md)
+   * [User Personas](/02-educacion-continua/01-intro-uxd-1/Unidad-3/11-user-personas.md)
+   * [Problem Statements, HMW y What Ifs](/02-educacion-continua/01-intro-uxd-1/Unidad-3/12-priorizacion.md)
    * [Autoevaluación](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08.1-auto-evaluacion.md)
 * [UNIDAD 4]() 
    * [Ideación y decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/13-ideacion-y-decision.md)
@@ -25,6 +25,4 @@
    * [Wireframing](/02-educacion-continua/01-intro-uxd-1/Unidad-4/16-wireframing.md)
    * [Autoevaluación](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08.1-auto-evaluacion.md)  
 
-* [BONUS]()
-   * [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-1/17-usabilidad.md)   
 
