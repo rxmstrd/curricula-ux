@@ -1,12 +1,12 @@
 # Intro a User Experience Design 2
 
 
-En este curso empezarás a formar el mindset que todo UX Designer debe tener: pensar en el usuario, pensar en el negocio y entender cómo los prototipos se vuelven una parte fundamental en un proceso de diseño. A lo largo del curso, entenderás las distintas etapas de un proceso de diseño y las podrás poner en práctica trabajando en un producto.
+En este curso continuaremos construyendo el mindset que UX Designer debe tener: pensar en el usuario, pensar en el negocio y entender cómo los prototipos se vuelven una parte fundamental en un proceso de diseño. A lo largo del curso, entenderás las distintas etapas de un proceso de diseño y las podrás poner en práctica trabajando en un producto.
 
 
 ## Público objetivo
 
-Egresadas del bootcamp de Laboratoria que no hayan llevado la especialización de User Experience Design.
+Egresadas del bootcamp de Laboratoria que hayan llevado la clase Introducción a User Experience Design 01.
 
 ## Requerimientos previos
 
@@ -15,12 +15,10 @@ Ningún conocimiento previo diseño o de programación es necesario para complet
 ## Aprenderás
 
 
-* Qué es **User Experience Design** y por qué es importante en la creación de productos digitales
-* La diferencia y similitud entre distintos frameworks como **Design Thinking**, **Lean Startup**, **Lean UX** y **Design Sprint** 
-* Las 5 fases del proceso de User Experience Design
-* A entender la importancia del **User Research** en un proceso de diseño
-* Qué son los **User Personas** y cómo su uso impacta en el proceso de diseño
-* La importancia de usar preguntas como **HMW** y **What if** para la generación de ideas
+* Cómo llevar a cabo sesiones de testing
+* Qué es `storytelling` y cómo lo usamos
+* Cómo planeamos proyectos de research
+* Utilizar herramientas de diseño y prototipado digital
 
 ## Detalles logísticos
 
@@ -37,9 +35,8 @@ Durante el curso las estudiantes podrán elegir un reto para el cuál deberán r
 * [LUP](https://www.plasticlup.com/)
 * [The Bonding](http://www.thebonding.cl/)
 * [Nutrisato SpA](http://www.nutrisato.com/)
-* []()
-* []()
-* []()
+* [Social Lab](#)
+
 
 
 ## Syllabus
@@ -52,7 +49,7 @@ Bienvenida al curso, detalles del formato y logística de la Clase. Qué es Test
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
 | 01 | clase | 10 min | Logística de la Clase
-| 02 | clase | 10 min | ¿Qué es Testing?
+| 02 | clase | 10 min | ¿Qué es Testing? - Ejemplos
 | 03 | discusión | 10 min | ¿Cómo hacemos una sesión de testing para nuestros prototipos?
 
 
