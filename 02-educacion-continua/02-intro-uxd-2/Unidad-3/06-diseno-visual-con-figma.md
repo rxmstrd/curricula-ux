@@ -33,10 +33,7 @@ Figma es una de las muchas herramientas de diseño y prototipado que existen. Pu
 
 Un `proyecto` es una carpeta que incluye muchos files. Por ejemplo, puedes tener un proyecto `App Ecommerce` y dentro del proyecto puedes tener muchos files. Por ejemplo, `app design`, `landing page design` e incluso algo como `facebook-post design`. Muchas veces nuestros proyectos tendrán un solo file. Pero es bueno saber que Figma nos permite tener varios files para un proyecto. 
 
-
-
 *** 
-
 
 ### Qué permite una cuenta gratiuta
 
@@ -46,19 +43,16 @@ Un `proyecto` es una carpeta que incluye muchos files. Por ejemplo, puedes tener
 - Puedes tener historial de cambios de tus files de hasta 30 días.
 
 
-
 ### Información adicional
 
 - Puedes ver tutoriales sobre Figma en este [link](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA).
 - Adicionalmente, hay una comunidad de Figma que puedes encontrar [aquí](https://spectrum.chat/figma).
 
+### Recursos
 
-https://medium.com/@mengto/figma-vs-sketch-c01e5e74eddd
-
-https://learnux.io/course/figma
-
-https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=es&ie=UTF-8&u=https%3A%2F%2Fwww.oreilly.com%2Flearning%2Fvisual-design-principles&edit-text= 
-
+- [Figma Course](https://learnux.io/course/figma)
+- [Principios de diseño visual](https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=es&ie=UTF-8&u=https%3A%2F%2Fwww.oreilly.com%2Flearning%2Fvisual-design-principles&edit-text=)
+- [Figma vs Sketch](https://medium.com/@mengto/figma-vs-sketch-c01e5e74eddd)
 
 
 	
