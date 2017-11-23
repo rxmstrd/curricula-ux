@@ -18,7 +18,7 @@ Para empezar esta clase introductoria es bueno saber qué entendemos por UX.
 Puedes ver a Don Norman, el primero en usar el término `User Experience`, hablando sobre UX.
 
 <div class="iframeWrapper">
-	<iframe width="960" height="569" src="https://www.youtube.com/embed/9BdtGjoIN4E" frameborder="0" allowfullscreen></iframe>
+	<iframe width="960" height="569" src="https://www.youtube.com/embed/9BdtGjoIN4E?&cc_lang_pref=es&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- Slide 3 -->
 
