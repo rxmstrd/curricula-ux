@@ -19,10 +19,9 @@
    * [Herramientas de diseño: Figma](/02-educacion-continua/02-intro-uxd-2/Unidad-3/09-diseno-visual-con-figma.md)
    * [Autoevaluación](/02-educacion-continua/02-intro-uxd-2/Unidad-1/autoevaluacion.md)
 
-* [UNIDAD 4]()
-   * [Navegación](/02-educacion-continua/02-intro-uxd-2/Unidad-4/08-navegacion.md)
-   * [Usabilidad](/02-educacion-continua/02-intro-uxd-2/Unidad-4/09-usabilidad.md)
-   * [Testing](/02-educacion-continua/02-intro-uxd-2/Unidad-4/10-testing.md)
+* [Contenido adicional]()
+   * [Navegación](/02-educacion-continua/02-intro-uxd-2/Unidad-4/10-navegacion.md)
+   * [Usabilidad](/02-educacion-continua/02-intro-uxd-2/Unidad-4/11-usabilidad.md)
    * [Autoevaluación](/02-educacion-continua/02-intro-uxd-2/Unidad-1/autoevaluacion.md)
 
 
