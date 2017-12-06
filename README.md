@@ -41,104 +41,44 @@ Durante el curso las estudiantes podrán elegir un reto para el cuál deberán r
 
 ## Syllabus
 
-### Lección 01: [Introducción a Testing](/02-educacion-continua/02-intro-uxd-2/Unidad-1/01-tests-con-usuarios.md)
-
-Bienvenida al curso, detalles del formato y logística de la Clase. Qué es Testing.
+### Unidad 1
 
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 10 min | Logística de la Clase
-| 02 | clase | 10 min | ¿Qué es Testing? - Ejemplos
-| 03 | discusión | 10 min | ¿Cómo hacemos una sesión de testing para nuestros prototipos?
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Tests con usuarios
+| 02 | clase | Presentación de challenges y planning
 
 
-### Lección 02: [Retos del curso](/02-educacion-continua/02-intro-uxd-2/Unidad-1/02-challenges.md)
+
+### Unidad 2
 
 
-Conoceremos los casos en los que trabajaremos durante el resto del curso. Todos los casos son relacionados a empresas sociales. 
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 20 min | Introducción a los casos que trabajaremos
-
-
-### Lección 03: [Planning](/02-educacion-continua/02-intro-uxd-2/Unidad-1/03-planning.md)
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | User Personas
+| 02 | clase | Customer journey maps
+| 03 | clase | Storytelling
 
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 30 min | Planning de un reto de UX
-| 02 | workshop | 90 min | Planeación de actividades de Reto UX  
+
+### Unidad 3
 
 
-### Lección 04: [Storytelling](/02-educacion-continua/02-intro-uxd-2/Unidad-2/04-storytelling.md)
-
-Storytelling como herramienta en UX.
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 30 min | Storytelling
-| 02 | clase | 30 min | User Personas for storytelling
-| 02 | workshop | 90 min | Storytelling de nuestros proyectos
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Prototipado
+| 02 | clase | Intro a diseño visual 
+| 03 | clase | Diseño visual con Figma
 
 
-### Lección 05: [Intro Visual Design](/02-educacion-continua/02-intro-uxd-2/Unidad-3/05-intro-visual-design.md)
+### Contenido adicional
 
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | self-paced| Navegación
+| 02 | self-paced | Usabilidad
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | video | 20 min | Web design for non-designers
-
-
-### Lección 06: [Diseño visual con Figma](/02-educacion-continua/02-intro-uxd-2/Unidad-3/06-diseno-visual-con-figma.md)
- 
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 10 min | Diseño Visual con Figma
-| 02 | workshop | 30 min | Creando las primeras interfaces
-
-### Lección 07: [Prototipado con Marvel](/02-educacion-continua/02-intro-uxd-2/Unidad-3/07-prototipado-con-marvel.md)
- 
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 10 min | Diseño Visual con Figma
-| 02 | workshop | 30 min | Creando las primeras interfaces
-
-### Lección 08: [Navegación](/02-educacion-continua/02-intro-uxd-2/Unidad-4/08-navegacion.md)
- 
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | clase | 10 min | Diseño Visual con Figma
-| 02 | workshop | 30 min | Creando las primeras interfaces
-
-### Lección 09: [Usabilidad](/02-educacion-continua/02-intro-uxd-2/Unidad-4/09-usabilidad.md)
-
-50 min (self-paced)
-
-La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heurísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | lectura | 15 min | 10 heurísticas de usabilidad
-| 02 | workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
-| 03 | self-paced | 20 min | Lee los primeros capítulos del libro "No me hagas pensar"
-
-
-### Lección 10: [Testing](/02-educacion-continua/02-intro-uxd-2/Unidad-4/10-testing.md)
-
-50 min (self-paced)
-
-La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heurísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
-
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | lectura | 15 min | 10 heurísticas de usabilidad
-| 02 | workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
-| 03 | self-paced | 20 min | Lee los primeros capítulos del libro "No me hagas pensar"
 
 ## Evaluación 
 
