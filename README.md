@@ -28,14 +28,14 @@ Ningún conocimiento previo diseño o de programación es necesario para complet
 
 ## Producto
 
-Durante el curso las estudiantes podrán elegir un reto para el cuál deberán realizar una investigación y desarrollar un producto a lo largo del curso. Entre los retos a elegir están los siguientes: 
+Durante el curso las estudiantes podrán elegir un reto para el cuál deberán realizar una investigación y desarrollar un producto a lo largo del curso. 
 
-* [Fundación Creando Curiosos](https://www.creandocuriosos.org/)
+<!-- * [Fundación Creando Curiosos](https://www.creandocuriosos.org/)
 * [Vota Inteligente](http://VotaInteligente.cl)
 * [LUP](https://www.plasticlup.com/)
 * [The Bonding](http://www.thebonding.cl/)
 * [Nutrisato SpA](http://www.nutrisato.com/)
-* [Social Lab](#)
+* [Social Lab](#) -->
 
 
 
