@@ -26,7 +26,6 @@
 * [UNIDAD 5]() 
    * [Tests con usuarios](/02-educacion-continua/01-intro-uxd-1/Unidad-5/17-tests-con-usuarios.md)
    * [Planning](/02-educacion-continua/01-intro-uxd-1/Unidad-5/18-planning.md)
-   * [Decisión](/02-educacion-continua/01-intro-uxd-1/Unidad-4/15-decision.md)
    * [Autoevaluación](/02-educacion-continua/01-intro-uxd-1/Unidad-2/08.1-auto-evaluacion.md)
 * [UNIDAD 6]() 
    * [User Personas](/02-educacion-continua/01-intro-uxd-1/Unidad-6/19-user-personas.md)
