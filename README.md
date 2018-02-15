@@ -256,17 +256,60 @@ El research es la etapa más importante del proceso de diseño, ya que nos ayuda
 | - | ---- | -------- | ------
 | 01 | Workshop | 30 min | Wireframing
 
-### Lección 17: [Usabilidad](/02-educacion-continua/01-intro-uxd-1/Unidad-4/17-usabilidad.md)
+### Lección 17: [Tests con usuarios](/02-educacion-continua/01-intro-uxd-1/Unidad-5/17-tests-con-usuarios.md)
 
-50 min (self-paced)
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Tests con usuarios
 
-La usabilidad es una característica muy valiosa en nuestros productos digitales. Durante esta sesión aprenderás las heurísticas de usabilidad y podrás identificar y corregir temas de usabilidad en distintos productos.
+### Lección 18: [Planning](/02-educacion-continua/01-intro-uxd-1/Unidad-5/18-planning.md)
 
-| # | Tipo | Duración | Tópico
-| - | ---- | -------- | ------
-| 01 | lectura | 15 min | 10 heurísticas de usabilidad
-| 02 | workshop | 15 min | Encontrar problemas de usabilidad en webs y aplicaciones
-| 03 | self-paced | 20 min | Lee los primeros capítulos del libro "No me hagas pensar"
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Presentación de challenges y planning
+
+### Lección 19: [User Personas](/02-educacion-continua/01-intro-uxd-1/Unidad-6/19-user-personas.md)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | User Personas
+
+### Lección 20: [Customer Journey maps](/02-educacion-continua/01-intro-uxd-1/Unidad-6/20-customer-journey-mapping.md)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Customer journey maps
+
+### Lección 21: [Storytelling](/02-educacion-continua/01-intro-uxd-1/Unidad-6/21-storytelling.md)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Storytelling
+
+### Lección 22: [Prototipado](/02-educacion-continua/01-intro-uxd-1/Unidad-7/22-prototipado.md)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Prototipado
+
+### Lección 23: [Fundamentos diseño visual](/02-educacion-continua/01-intro-uxd-1/Unidad-7/23-visual-design.md)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Intro a diseño visual 
+
+### Lección 24: [Diseño visual con Figma](/02-educacion-continua/01-intro-uxd-1/Unidad-7/24-figma.md)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | clase | Diseño visual con Figma
+
+### Lección 25: [Contenido adicional](/02-educacion-continua/01-intro-uxd-1/Unidad-8/)
+
+| # | Tipo | Tópico
+| - | ---- | ------
+| 01 | self-paced| Navegación
+| 02 | self-paced | Usabilidad
 
 ## Evaluación 
 
