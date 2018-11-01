@@ -1,119 +1,255 @@
-# User Experience Design
+# Postulación a empresa líder en viajes online 
 
-Este repositorio es el lugar donde vamos a ir continuamente _diseñando_ nuestro
-programa de formación en **User Experience Design**.
+## Preámbulo
 
-En este repo se irán _ordenando_, _desarrollando_, _discutiendo_ y
-_proponiendo_ todo lo que tenga que ver con el diseño de nuestros _contenidos_
-y _sus ejercicios_.
+Una egresada de Laboratoria que trabaja para una empresa líder en reserva de
+viajes online te ha recomendado para postular a una vacante de UX Designer que
+se acaba de abrir. Es un proceso competitivo, pero tu compañera se ha ofrecido a
+ayudarte. Ella ya pasó por ahí, sabe el tipo de preguntas que hacen durante las
+entrevistas y tiene los detalles de los retos que le tocó resolver cuando
+postuló.
 
-En Laboratoria, vemos UX como un mix entre diseño, tecnología y negocios.
+Tu compañera te asegura que, con la experiencia que tienes del bootcamp y su
+coaching específico para esta postulación, tienes alta posibilidad de entrar.
+¡Uff, qué valiosa es la red de egresadas de Laboratoria!
 
-- **Diseño:** En la parte de diseño,  nuestras estudiantes aprenden las bases
-  del diseño centrado en el usuario (HCD) y diseño visual. Aprenden distintas
-  técnicas de investigación para empatizar y entender a profundidad a los
-  usuarios durante todo el proceso de diseño, y a encontrar sentido de lo
-  observado en estas investigaciones para poder llegar a insights que les
-  permitan priorizar sus decisiones de diseño. Además, aprenden sobre técnicas
-  de ideación, storytelling, arquitectura de la información, usabilidad y
-  accesibilidad. Experimentan también con distintas herramientas y técnicas
-  de prototipado.
+## Introducción
 
-- **Negocios:** aprenden a relacionarse e involucrar stakeholders en su proceso
-  de trabajo, a entender modelos de negocio y a tomar en cuenta los objetivos de
-  negocio en sus decisiones de diseño.
+Antes de empezar, tu compañera te deja muy claro lo siguiente: 
 
-- **Tecnología:** conocen cómo funcionan los productos digitales y conocen
-  sobre las distintas tecnologías disponibles para proponer productos. Su
-  conocimiento de cómo funciona la web y su experiencia previa de HTML, CSS y
-  JavaScript en el common core les permite comunicarse de una mejor manera con
-  equipos de desarrollo y poder trabajar de la mano con ellos.
+*“En los procesos de postulación tienes que demostrar no solo que sabes hacer
+algo, pero que también eres capaz de explicar cómo lo hiciste y por qué lo
+hiciste de esa manera. Debes siempre explicar que existen varias maneras de
+resolver lo que te planteen - podría ser con a, b, c ... - y luego argumentar
+bien que escogiste la manera x por tal y cual razón; asumiendo tal y cual
+cosa ...“*
 
-## Mapa de conceptos, tecnologías y herramientas
+## Objetivos de aprendizaje
 
-Como guía en el proceso de diseño de la malla estamos usando un "mapa" de
-_conceptos_ y _habilidades_ que queremos cubrir en la currícula. Lo puedes
-encontrar en este [link](https://trello.com/b/P5neOZ0T/laboratoria-ux-mindmap).
-Este mapa es un mapa vivo, se basa en feedback de empleadores, instructores y
-alumnas. Si tienes alguna sugerencia o comentario no dudes en hacerlo. 
+El objetivo principal de este reto es que conozcas lo que es un proceso de
+reclutamiento para una posición de UX Designer y estés bien preparada para
+enfrentar los meses de colocación laboral. El 100% de las preguntas, retos,
+desafíos, etc. que se plantean en este proyecto son casos reales de empresas que
+han contratado y/o entrevistado a egresadas de Laboratoria. Este reto es muy
+cercano a lo que pasará pronto en tu vida, en la etapa de colocación laboral.
+Así que sácale el máximo provecho ;)
 
-Además del feedback de empleadores, instructores y alumnas. Hemos tenido en
-cuenta comentarios y artítuclos de referentes en el diseño. Aquí algunas de
-nuestras referencias:
+## Consideraciones Generales
 
-### [Let’s stop talking about THE design process](https://medium.com/stanford-d-school/lets-stop-talking-about-the-design-process-7446e52c13e8)
+* Este proyecto debe completarse de manera individual.
+* Deberás avanzar paso a paso por el proceso de postulación. Si no has
+  completado la primera parte, no puedes avanzar a la segunda.
+* Tiempos:
+     * Para la parte I tendrás el tiempo que tú consideres. Te recomendamos
+       apuntar a completarla en menos de 1 semana.
+     * Para la parte II tendrás 1 semana.
+        
+## Parte I: Envío de Currículum Vitae (CV)
 
-En este artículo del dschool the la Universidad de Stanford, la autora nos habla
-de cómo debemos dejar de enfocarnos en "EL" proceso de diseño sino que debemos
-enfocarnos en determinados skills que deben tener los diseñadores como:
+Cualquier proceso de reclutamiento inicia cuando envías tu CV solicitando que te
+consideren para  el cargo de la empresa que te interesa.
 
-- Navegar la ambigüedad
-- Aprender de otros
-- Sintetizar información
-- Experimintar rápido
-- Moverse entre concreto y abstracto
-- Construir y crear intencionalmente
-- Comunicar deliberadamente
-- Diseñar el trabajo de diseño
+Por suerte, tu compañera te ha enviado un mensaje con los [elementos a
+considerar al escribir tu CV](https://drive.google.com/file/d/17BL00Qd0z2NBQkTEeg2_BgvQNsytMaMu/view?usp=sharing).
+Léelo con detenimiento y sigue sus recomendaciones. Un dato importante: tal como
+explica tu compañera, esta parte va más allá del CV, incluye también tu LinkedIn
+y tu portafolio - a los cuales se accede a través de tu CV.
 
-Toodos estas habilidades están siendo añadidas en nuestra currícula.
+Una vez que completes tu CV (con los links a tu portafolio y LinkedIn
+actualizados), debes enviarlo a la coordinadora de desarrollo personal
+(psicóloga) de tu sede via e-mail incluyendo un breve párrafo indicando tu
+interés por el puesto. Ella revisará los documentos te dirá si estás preparada
+para avanzar a la parte II o si debes mejorar algunas cosas.
 
-### [InVision’s Aarron Walter on design culture](https://blog.intercom.com/invisions-aarron-walter-on-design-culture/)
+En esta parte, específicamente se evaluará:
+* La calidad de tu CV
+* La calidad y completitud de tus perfil de LinkedIn
+* La calidad y completitud de tu portafolio
 
-Aarron Walter de Invision nos habla sobre el balance entre teoría y práctica al
-momento de educar en diseño.
+## Parte II: Entrevista laboral (de “práctica”) con la coordinadora de desarrollo personal
 
-> If you’re entirely academic, but you have not actually practiced or applied
-those ivory tower ideas, if you haven’t applied those to something practical,
-then is that very useful? Conversely, if you only know the tools of the trade,
-can you think very deeply about the meaning of the product and the strategy? Can
-you think very high level? Maybe not. A balance between those two puts you in a
-really strong position to be a leader in design and technology, versus just a
-technician.
+Si la coordinadora de desarrollo personal (psicóloga) de tu sede considera que
+has completado la parte I satisfactoriamente, te invitará a una simulación de
+entrevista laboral con ella que te sirva de “práctica”.
 
-### [Judy Wert - The one thing all top designers have](https://www.youtube.com/watch?v=xPmBRhMX8qQ)
+Aún cuando es de práctica, es importante que te prepares bien, dado que si no
+tienes un buen desempeño en este paso no podrás avanzar.
 
-En esta entrevista, Judy Wert, nos habla de que el top 1% de diseñadores en el
-mundo saben sobre la historia del diseño y lo complicado que ha sido llegar al
-rol que juega el diseño hoy en día. Esto está muy relacionado con tener empatía
-con las personas con quiénes trabajamos.
+Para esto, te recomendamos revisar los siguientes recursos:
+* La [guía de Laboratoria](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing)
+  sobre cómo prepararte para una entrevista laboral.
+* El [taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing) profesionales
+  de Laboratoria.
+* Al final de la entrevista, la coordinadora de desarrollo personal te dirá si
+  estás preparada para avanzar a la parte III o si debes mejorar algunas cosas y
+  repetir la entrevista de “práctica”.
 
-### [Jared Spool - How to hire designers](https://blog.intercom.com/jared-spool-on-ux-design/)
+Ok… hagamos un check list con todo lo que deberías tener listo hasta ahora: 
+* Tu CV y LinkedIn ya deberían haber sido revisados por la psicóloga de tu
+  sede.
+* Tu portafolio debería haber pasado por revisión y feedback de tus coaches.
+* Ya deberías haber pasado por una entrevista de práctica con la psicóloga de tu sede.
 
-En esta entrevista, Jared Spool, co-founder de Center Centre, explica cómo es la
-mejor manera de contratar un diseñador. Y cuestiona la relación entre seniority
-y años de experiencia.
+### Parte III: Entrevista con alguien de la industria 
 
-### [Daniel Burka - Design is the scientific method of businesses, if done right](https://www.youtube.com/watch?v=t44kmZ_PFOU)
+Si la coordinadora de desarrollo personal (psicóloga) de tu sede considera que
+has completado la parte I (CV, LinkedIn, GitHub y portafolio) y la parte II
+(entrevista de “prueba”) satisfactoriamente, coordinará para que tengas una
+entrevista de 30-45 minutos con alguien de la industria (que llamamos
+“reclutador”).
+
+El/La reclutador(a) se contactará contigo, ya sea a través del correo
+electrónico o vía telefónica. Aunque suene obvio, hemos tenido casos donde no
+contestan el teléfono a números desconocidos o no revisan su correo, perdiendo
+la oportunidad de tener una entrevista. Es importante que estés atenta a la
+llamada del reclutador. Un consejo: nunca respondas la llamada preguntando -
+“¿Me puedes devolver la llamada en otro momento?”, la persona que te está
+contactando tiene que saber y sentir tu interés por el trabajo. En todo caso si
+realmente no puedes hablar en ese momento, explicaselo y señala que lo llamaras
+apenas te desocupes.  Por otro lado, recuerda que no todas las entrevistas son
+presenciales, por lo que puedes enfrentarte a una entrevista online. En este
+caso, procura estar en un lugar tranquilo, tener buena conección a internet y
+una cámara disponible.
+
+Después de la entrevista, la coordinadora de desarrollo personal conversará con
+el/la reclutador(a) y te dirá si estás preparada para el siguiente paso, o si
+deberás practicar un poco más y repetir la entrevista con alguien de la
+industria. En este último caso, conversa con tu Training Manager para entender
+qué plan de acción debes implementar.
+
+## Parte IV: Entrevista técnica
+
+El siguiente paso del proceso es una entrevista técnica de 1 hora donde un/una
+coach te hará una serie de preguntas conceptuales y te pedirá plantear “en vivo”
+algunos retos cortos para evaluar cómo enfrentas un problema y cómo llegas a una
+solución.  Recuerda nuevamente estar atenta a tu correo o teléfono para poder
+coordinar la entrevista.
+
+Como no sabes cuáles son las preguntas/retos que escogerá tu coach, es
+importante que te prepares habiendo resuelto y entendido a profundidad todas las
+preguntas y todos los retos. Tu compañera te ha pasado este
+[documento](https://docs.google.com/document/d/1nevI19zjfopoPfZmgpz-tFWbgKVvQ3rmtfoLsuLaC_k/edit#)
+que recopila las preguntas y retos de procesos anteriores. Lo más seguro es que
+la entrevista se base en ese documento, así que revísalo con detenimiento,
+contesta todas las preguntas y resuelve todos los retos para que estés lo mejor
+preparada posible.
+
+Durante la entrevista, tu coach te:
+
+* Hará algunas de las preguntas conceptuales y tendrán una conversación
+  alrededor de eso. Puedes usar papel, lápiz o la pizarra para complementar tus
+  ideas con un ejemplo. Para las preguntas conceptuales imagina que estás
+  moderando una sesión de Q&A en Laboratoria
+* Presentará algunos retos para que los completes en vivo y te pedirá que narres
+  en voz alta lo que estás pensando.
+  * Por ejemplo: “Para entender mejor a los usuarios haría x e y, esto por …”
+* Pedirá que expliques qué otras opciones se te ocurren para resolver el
+  problema y por qué has decidido hacerlo de la manera que planteas. Tip: cuando
+  te prepares, apunta a tener al menos dos formas de resolver cada reto y
+  entender cuál es tu opción preferida y por qué.
+* Hará preguntas sobre tu solución para saber si entiendes a profundidad lo que
+  estás haciendo. Ven preparada a responder preguntas al estilo:
+  * “Veo que estás haciendo esto … ¿por qué has decidido hacerlo así?”
+
+Al final de la entrevista, que debe durar máximo 1 hora, tu coach te dirá si
+estás preparada para el siguiente paso del proceso de postulación, o si deberás
+estudiar un poco más y repetir la entrevista. Si has dado dos intentos a la
+entrevista y no has podido avanzar, es una señal de que algo anda mal y deberás
+comunicarte con tu Training Manager para entender qué plan de acción debes
+implementar.
+
+Una vez que hayas pasado exitosamente tu entrevista, debes avanzar a la quinta y
+última parte del proceso de postulación.
+
+## Parte V: Desafíos para resolver y entregar
+
+La tercera parte del proceso de postulación consiste en hacer 3 de los
+siguientes 10 desafíos y tener nuevamente una entrevista con un/una coach en la
+que le defenderás tus soluciones.
+
+Los desafíos serán enviados a tu correo electrónico, donde deberás escoger dos
+entre los desafíos 1, 2 y 3, y uno de los desafíos del 4 al 9.
+
+Esta entrevista será fijada con un plazo de 1 semana. Es decir, debes completar
+los 3 desafíos en ese tiempo. Puedes utilizar los pasos de este [framework](https://github.com/Laboratoria/curricula-ux/tree/master/01-sprints/02-aplica-lo-aprendido/02-preparacion-para-entrevistas/00-instrucciones)
+para plantear tus soluciones. 
+
+A diferencia de los retos de la primera etapa, aquí debes enviar tus soluciones
+con anticipación. Debes alojar tus soluciones en una carpeta de Google Drive o
+en un repositorio de GitHub  y enviar la la url a través de correo electrónico a
+tu entrevistador/coach.
+
+### Desafío #1: Crea un dashboard (aplicación web) para un médico
+
+Piensa en un médico internista/generalista que va a atender a un paciente que ya
+ha tenido en el pasado algunas visitas con otros especialistas.  El paciente
+tiene una historia clínica con información que puede ser muy relevante para el
+médico al momento de atenderlo.
+
+Propón un dashboard en el que un médico pueda ver la información de estos
+pacientes de una manera rápida, pero sin dejar de lado información importante
+¿Qué información debería ver? ¿Por qué? ¿A qué otras cosas debería tener acceso?
+
+### Desafío #2: Mejora la experiencia del cajero automático de un banco
+
+Las interfaces de los cajeros automáticos son una de las interfaces tecnológicas
+que menos han evolucionado en los últimos 20 años. Incluso ahora que tenemos
+touch screens y muchas herramientas tecnológicas de diseño, muchos cajeros aún
+tienen pantallas negras o azules y tipografías de los años 80. Además de la mala
+interfaz, muchos cajeros tienen opciones muy confusas para los usuarios,
+convirtiendo esta experiencia en algo que muchos buscamos evitar. (Sumado a las
+variadas y modernas opciones de pago disponibles en la actualidad).
+
+Elige un banco que tenga una mala experiencia en sus cajeros automáticos y haz
+tu propuesta de mejora a la experiencia. No olvides de tener en cuenta siempre
+al negocio.
+
+### Desafío #3: El calendario
+
+Cuando los usuarios compran un pasaje de avión o hacen una reserva de un auto u
+hotel, en nuestro portal, interactúan con un calendario para ingresar la fecha
+de inicio y fin de su reserva. Según la data de nuestro plataforma, hay un 20%
+de usuarios que abandonan la página luego de hacer clic en el calendario, es por
+eso que necesitamos rediseñar este componente. Crea un nuevo calendario para
+nuestro sitio y cuéntanos por qué tu propuesta es mejor que la que tenemos
+actualmente.
+
+### Desafío #4: Asistencia
+
+Diseña un app para que los coaches de una clase puedan tomar asistencia de una
+manera más eficiente.
+
+### Desafío #5: Marketplace de freelancers
+
+Linkedin ha decidido crear un marketplace para freelancers. Diseña un flujo para contratar un profesional.
+
+### Desafío #6: Postulaciones a Laboratoria
+
+Rediseña la página de postulaciones de Laboratoria.
+
+### Desafío #7: La guía de entrevistas
+
+Queremos entender mejor a los usuarios de nuestro sitio web de viajes,
+principalmente cómo es su flujo de decisión cuando deciden tomar vacaciones
+familiares. Ayúdanos a crear una guía de entrevistas para poder entenderlos más.
+
+### Desafío #8: Instacart Latam
+
+[Instacart](http://instacart.com/) ha decidido incursionar en Latinoamérica
+(Ciudad de México, Santiago de Chile y Lima).  Instacart está interesado en
+conocer a sus principales competidores y a adaptar su app de acuerdo a lo que
+busca cada mercado. Además, te ha pedido que le recomiendes qué y cómo hacerlo.
+Crea un landing page para este lanzamiento.
+
+### Desafío #9: Papa Johns
+
+Papa John's quiere mejorar la experiencia de sus clientes lanzando una
+plataforma de venta online para sus pizzas o mejorando la plataforma que ya
+tienen (en Chile). Propón una solución.
 
 
-### [Paul Sherman - The unicorn is dead. Soft skills kill coding skills](https://www.youtube.com/watch?v=tSkDLYDsbBc)
 
-En este talk Paul comenta sobre la importancia de los soft skills para un UX
-Designer. Y destaca los siguientes:
-
-- Comunicación e influencia
-- Colaboración
-- Empatía
-- Pensamiento crítico (judgment)
-- Iniciativa
-
-*** 
-
-## Contribuciones
-
-Toda contribución es **gratamente bienvenida**.
-
-Pero **POR FAVOR** no olvides leer detalladamente la
-[guía para contribuidores](CONTRIBUTING.md) antes de enviar un PR.
-
-## Licencia & Copyright
-
-Todos los materiales de este repo son (c) 2017 [Laboratoria](http;//laboratoria.la/).
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-
-Este trabajo está publicado bajo la licencia [Creative commons
-Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
+## Recursos externos
+* [Elementos a considerar al escribir tu CV](https://drive.google.com/file/d/17BL00Qd0z2NBQkTEeg2_BgvQNsytMaMu/view?usp=sharing).
+* [Guía de Laboratoria para entrevistas](https://drive.google.com/file/d/1hwayjQlU7m6acBts9g0G5VBK8ZCcAN2b/view?usp=sharing).
+* [Taller de preparación para entrevistas](https://docs.google.com/presentation/d/1IKc49cO4PQZVytL8pEgu9rogWYcuoguBcnKHgPKKXLs/edit?usp=sharing).
